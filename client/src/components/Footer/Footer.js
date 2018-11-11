@@ -5,7 +5,7 @@ const Footer = () => (
     <hr />
     <p className="pull-right">
       <i className="fab fa-github" /> {" "}
-      Proudly built using React.js
+      lol
     </p>
   </footer>
 );
